@@ -39,8 +39,6 @@ The project focuses on **insight generation and statistical understanding**, wit
 - Matplotlib  
 - Seaborn  
 
----
-
 ## 🔍 Methodology
 1. Data loading and inspection  
 2. Data quality check (missing values, data types)  
